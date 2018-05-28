@@ -1,0 +1,21 @@
+PODS:
+  - BoringSSL (10.0.3):
+    - BoringSSL/Implementation (= 10.0.3)
+    - BoringSSL/Interface (= 10.0.3)
+  - BoringSSL/Implementation (10.0.3):
+    - BoringSSL/Interface (= 10.0.3)
+  - BoringSSL/Interface (10.0.3)
+
+DEPENDENCIES:
+  - BoringSSL
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BoringSSL
+
+SPEC CHECKSUMS:
+  BoringSSL: c46efb47593135382bc0934196f16d2f726f5f36
+
+PODFILE CHECKSUM: 9986638260edc87ee2c788261623bcc819ff5a3b
+
+COCOAPODS: 1.5.0
